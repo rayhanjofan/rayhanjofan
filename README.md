@@ -142,7 +142,7 @@ const rayhan = {
 ## 📌 Featured Project
 
 <!-- Ganti "nama-repo-fairshare" dengan nama repository FairShare-mu -->
-<a href="https://github.com/rayhanjofan/nama-repo-fairshare">
+<a href="https://github.com/rayhanjofan/FairShare-Core">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanjofan&repo=nama-repo-fairshare&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="FairShare" />
 </a>
 
